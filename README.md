@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app criado para ajudar o usuário a rastrear hábitos saudáveis de uma maneira simples e fácil.
 
+- [Visite o projeto online](https://github.com/rafaelrec/nlw-setup-2023)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
